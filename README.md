@@ -17,6 +17,7 @@ _Created using [Very Good CLI][very_good_cli_link] 🤖_
 
 ---
 
+
 ## Getting Started 🚀
 
 To run the desired project either use the launch configuration in VSCode/Android Studio or use the following commands:
